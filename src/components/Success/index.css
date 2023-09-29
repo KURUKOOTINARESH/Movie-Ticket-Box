@@ -1,0 +1,22 @@
+.success-page{
+    padding: 3rem 4rem;
+    display: flex;
+    height: 100%;
+}
+.left-section{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right-section{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.success-img{
+    width: 400px;
+}

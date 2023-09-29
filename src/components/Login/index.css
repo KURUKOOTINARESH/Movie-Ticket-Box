@@ -1,0 +1,79 @@
+.login-page{
+    background-color: rgb(245, 66, 54);
+    height: 88vh;
+    display: flex;
+}
+.login-page-img{
+   width: 70%;
+}
+.login-page-img-con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+.login-content{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+h1{
+    font-weight: bold;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0.5rem 0;
+    width: 70%;
+    height: 70%;
+    background-color: white;
+    padding: 2rem;
+    color: black;
+}
+form input{
+    border: 0;
+    outline: none;
+    padding: 0.5rem 0;
+    width: 100%;
+    border-bottom: 2px solid gray;
+}
+.input-fields-con{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0;
+}
+form span{
+    text-align: center;
+}
+.start-shopping-btn{
+    width: 50%;
+    background-color: rgb(245, 66, 54);
+    padding: 0.8rem 2rem;
+    border: none;
+    color: white;
+    font-weight: 500;
+    margin: 1rem 0;
+    transition: 0.5s;
+}
+.start-shopping-btn:hover{
+    cursor: pointer;
+    letter-spacing: 2px;
+    transition: 0.5s;
+}
+.guest-btn{
+    width: 480px !important;
+    background-color: rgb(238, 141, 30) !important;
+    border: none !important;
+    padding: 1rem 2rem !important;
+    border-radius: 12px;
+}
+.click-here-text{
+    color: black;
+}
+.click-here-text:hover{
+    cursor: pointer;
+}
