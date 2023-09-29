@@ -1,3 +1,11 @@
+
+![Screenshot (621)](https://github.com/KURUKOOTINARESH/Movie-Ticket-Box/assets/30923105/18c09949-7063-46f4-bfab-162a8a054410)
+![Screenshot (622)](https://github.com/KURUKOOTINARESH/Movie-Ticket-Box/assets/30923105/9f7871ea-58e2-4585-b77f-459713ef67a7)
+![Screenshot (623)](https://github.com/KURUKOOTINARESH/Movie-Ticket-Box/assets/30923105/06fe47e0-029e-4679-aa12-c74b1288d700)
+![Screenshot (624)](https://github.com/KURUKOOTINARESH/Movie-Ticket-Box/assets/30923105/1bee5c29-cbd6-4e44-bd78-39ec0705a63e)
+![Screenshot (625)](https://github.com/KURUKOOTINARESH/Movie-Ticket-Box/assets/30923105/f06c6c8b-b15f-47d9-a356-a658cd1cc338)
+![Screenshot (626)](https://github.com/KURUKOOTINARESH/Movie-Ticket-Box/assets/30923105/9d48a060-a604-43d4-9853-150f7b0f99ba)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
